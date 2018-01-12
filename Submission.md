@@ -19,6 +19,12 @@ We will also provide a weekly schedule for each ferry in an agenda-like format. 
 
 ### Assumptions
 We are going to assume that Seaspan ferries has the ability to have up-to-date data on the ferries including:
-*Capacity of each ferry
-*Location of each ferry
+* Capacity of each ferry
+* Location of each ferry
+
+
+### Visualization
+![alt text][model]
+
+[model]: https://github.com/InfoVizW2018/activity-2-aj-rhys-nick-team/blob/master/SeaspanModelVisualization.png
 
